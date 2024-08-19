@@ -1,0 +1,42 @@
+
+User Request:
+
+write the longest novel you can that really just is an excuse to use the word "strawberry" as much as possible., like an absurb amount. 100 times/page but work it into a narrative somehow. bonus to mention ai, agi, ubi and lily (an ai woman who folks think is real)
+---
+
+Request Was Auto-Generated=False
+(False if User Provided)
+
+---
+
+Author:
+
+The Deep Writer (AI System)
+---
+
+Email:
+
+
+---
+
+User Outline Provided (Optional):
+
+
+Write the longest novel possible, incorporating the word 'strawberry' 100 times per page and weaving it into a narrative. Include mentions of AI, AGI, UBI, and a character named Lily, who is an AI woman that people believe is real.
+---
+
+Supplemental Info Provided (Optional):
+
+
+---
+
+Files Provided (Optional): 
+
+TODO: Add Files Here
+
+---
+
+Style Sample Provided (Optional):
+
+False
+---
